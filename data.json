@@ -1,0 +1,25 @@
+{
+    "name": "John",
+    "last_name":"Doe",
+    "age":30,
+    "adress":"calle 123",
+    "telephone":"123456789",
+    "email":"gualterosjohn@gmail.com",
+    "languages":["Javascript","Python","Java"],
+    "experiences":[
+        {
+            "company":"Google",
+            "position":"Software Engineer"
+        },
+        {
+            "company":"Facebook",
+            "position":"Software Engineer"
+        }
+    ],
+    "hobbies":{
+        "hobby1":"Programming",
+        "hobby2":"Reading",
+        "hobby3":"Watching TV"
+    }
+    
+}
